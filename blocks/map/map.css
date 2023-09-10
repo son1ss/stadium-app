@@ -1,0 +1,7 @@
+.map {
+  background-image: url('../../images/stadium.png');
+  position: relative;
+  background-repeat: no-repeat;
+  background-size: contain;
+  aspect-ratio: 16/9;
+}
